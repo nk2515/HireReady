@@ -1,0 +1,9 @@
+
+openai
+json5  # json is part of Python stdlib, but adding json5 is sometimes helpful
+PyPDF2
+python-docx  # 'docx' module comes from this package
+streamlit
+pandas
+plotly
+reportlab
